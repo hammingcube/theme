@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Maddy's Blog
 locale: en_US
-description: Describe your website here.
+description: My Tech Blog.
 logo: site-logo.png
 search: true
 url: 
@@ -32,13 +32,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Madhav Jha
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: madhavjha@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: madhavjha
   facebook: #username
-  github: #username
+  github: maddyonline
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
