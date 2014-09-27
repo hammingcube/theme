@@ -5,7 +5,7 @@ locale: en_US
 description: My Tech Blog.
 logo: site-logo.png
 search: true
-url: 
+url: http://maddyonline.github.io 
 
 
 # Jekyll configuration
